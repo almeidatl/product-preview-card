@@ -1,5 +1,8 @@
 # Frontend Mentor - Product preview card component solution
-## Desafio Front-End Mentor 01 - Card responsivo de produto
+
+### Check the solution below
+[S O L U T I O N](https://almeidatl.github.io/product-preview-card/)
+
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 
